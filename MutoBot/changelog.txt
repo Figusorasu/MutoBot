@@ -1,0 +1,55 @@
+*Legenda:*
+*Developer Alpha: 0.0.(wersja)d, np. 0.0.4d*
+*Alpha: 0.0.(wersja)a, np. 0.0.7a*
+*Beta: 0.(wersja).(poprawka)b, np. 0.1.3b*
+*Relese: (wersja).(poprawka).(kompilacja)r, np. 1.3.54r*
+
+**Wersja 0.0.0d** *29.11.2020*
+
+1. Utworzenie bota.
+2. Dodanie komend podstawowych (hello, ping, selfping).
+3. Dodanie eventow:
+    - wyslanie logu w konsoli aplikacji gdy ktos dolaczy lub opusci serwer.
+4. Dodanie komendy *hug*.
+
+**Wersja 0.0.1d** *30.11.2020*
+ 
+1. Dodanie minigry 8ball z losowymi odpowiedziami
+2. Dodanie pozostalych komend na czulosci: *pat*, *boop*, *kiss*.
+3. Dodanie eventow:
+    - Gdy ktos wbisze komende z bledna skladnka bot wypisuje komunikat o tym.
+4. Dodanie losowych wiadomosci do komend hug, pat, boop oraz kiss.
+5. Dodanie minigry rzutu koscmi D4, D6, D8, D10, D100, D12, D20.
+6. Przebudowa domyslnej komendy f!help na blok tekstu pobierany z pliku tekstowego.
+7. Zaczecie prac nad komendami moderacyjnymi:
+    - Dodanie komendy f!clear czyszczacej wiadomosci z czatu.
+    - Deklaracja komend kick oraz ban.
+
+**Wersja 0.0.2d** *02.12.2020*
+
+1. Dalsze prace nad komendami moderacyjnymi:
+    - usprawnienie komendy clear oraz wiadomosci potwierdzajacej jej dzialanie tak by znikala po kilku sekundach.
+    - dokonczenie komend kick oraz ban.
+    - dodanie bloku tekstu obslugujacego wiadomosc o zbanowaniu oraz wyrzuceniu z serwera.
+2. Usprawnienie komend z czulosciami:
+    - dodanie do komend hug, pat, boop oraz kiss bloku tekstu z wiadomoscia zamiast poprzedniej samej wiadomosci.
+3. Nieudana proba dodania bloku tekstowego do minigry 8ball.
+
+**Wersja 0.0.3d** *03.12.2020*
+
+1. Dodanie changeloga.
+2. Dodanie komend:
+    - wyswietlanie wersji bota,
+    - wyswietlanie changeloga,
+3. Przetlumaczenie:
+    - tlumaczenie zawartosci komendy help,
+    - tlumaczenie odpowiedzi przy 8ball oraz rzutach koscmi,
+    - tlumaczenie wiadomosci komend zarzadzania.
+4. Usunięcie komendy selfping jako pozostałości po testach.
+
+**Wersja 0.0.4d** (WIP)
+
+1. Poprawki w istniejących komendach:
+    - Przebudowa składni komendy hello,
+    - 
+2. Rozpoczęcie prac nad rozszerzeniami (cogs).

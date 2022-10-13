@@ -1,0 +1,3 @@
+**Wyrzuc kogos z serwera**
+
+**Skladnia:** *f!kick <member> <powod(opcjonalny)>*

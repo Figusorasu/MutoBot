@@ -1,0 +1,36 @@
+***Podstawowe komendy:***
+
+*hello* - Przywitaj sie z botem ;3
+*help* - Pokazuje ta wiadomosc
+
+***Moderacja i zarzadzanie:***
+
+*clear* - Kiedy czat wymaga oczyszczenia (podaj ilosc wiadomosci do usuniecia, domyslnie 5)
+*kick* - Wyrzuc kogos z serwera (Podaj powod by ktod wiedział za co dostal kopa ;)
+*ban* - Kiedy jedyna opcja na wyleczenie to mlotek ^w^
+
+***Fun:***
+
+*spamping* - kiedy chcesz komus zrobic spam (skladnia: f!spamping <osoba> <ilosc_wiadomosci>)
+
+*hug* - Przytul kogos :3
+*pat* - Albo poklep po glowce ;P
+*boop* - *boop* w nosek :P
+*kiss* - Kissu kissu x3
+
+***Minigry:***
+
+*8ball* - Zadaj mi jakies pytanie na ktore odpowiedz moze byc zamknieta (tak/nie)
+
+**Rzuty koscmi:**
+    *d4* - Rzuc D4!
+    *d6* - Rzuc D6!
+    *d8* - Rzuc D8!
+    *d10* - Rzuc d10!
+    *d100* - Rzuc d100!
+    *d12* - Rzuc d12!
+    *d20* - Rzuc d20!
+
+Dokładny spis wszystkich komend znajdziesz tutaj: https://mutobot.000webhostapp.com/spis_komend.html
+
+*Bot w fazie rozwoju. W krotce pojawi sie wiecej komend...*

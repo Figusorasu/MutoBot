@@ -1,0 +1,3 @@
+**Wyczysc zbedne wiadomosci**
+
+**Skladnia:** *f!clear <ilosc_wiadomosci(domyslnie 5)>*
